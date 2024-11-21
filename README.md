@@ -1,2 +1,0 @@
-# flash-card
-React-component
